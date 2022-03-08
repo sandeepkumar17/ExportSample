@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/ExportSample
+/ExportSample/bin
+/ExportSample/obj/Debug
+/packages
